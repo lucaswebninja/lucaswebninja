@@ -28,6 +28,7 @@ Meu nome é Lucas Nogueira de Azevedo atualmente eu sou estudante de programaç�
 <a href="https://www.youtube.com/channel/UCb6iKE2LOtjZcNgrKqvh5PQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-nogueira-de-azevedo-413421264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.facebook.com/profile.php?id=100086062912644" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
  </div>
  
  ### Main skills:
