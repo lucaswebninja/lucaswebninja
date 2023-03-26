@@ -4,11 +4,11 @@
 Meu nome é Lucas Nogueira de Azevedo atualmente eu sou estudante de programação no curso técnico de desenvolvimento web e mobile da Escola do Futuro José Luiz Binttencourt de Goiânia-GO
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Nogueira;I'm+29+years+old;I'm+from+Brazil;I+Estund+systems+Development+Web+Mobile;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Nogueira;I'm+29+years+old;I'm+from+Brazil;I+Estund+systems+Development+Web+Mobile;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucaswebninja&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucaswebninja&bg_color=0000ff&color=00ff00&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -18,7 +18,7 @@ Meu nome é Lucas Nogueira de Azevedo atualmente eu sou estudante de programaç�
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaswebninja&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Nogueira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaswebninja&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=0000ff" alt="Lucas Nogueira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswebninja&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
